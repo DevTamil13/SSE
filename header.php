@@ -8,6 +8,9 @@
     <title>SSE | <?= $title ?></title>
     <link rel="stylesheet" href="public/style/bootstrap.min.css">
     <link rel="stylesheet" href="public/style/main.css">
+    <link rel="stylesheet" href="public/style/responsive.css">
+    <script src="https://kit.fontawesome.com/68cb834c29.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </head>
 
 <body class="">
@@ -15,7 +18,7 @@
         <div class="container">
             <div class="nav d-none d-lg-flex">
                 <div class="lf">
-                    <img src="public/img/compony-logo.svg" alt="Sree Sarabheswar Engineering">
+                    <img class="logo" src="public/img/compony-logo.svg" alt="Sree Sarabheswar Engineering">
                 </div>
                 <div class="rf">
                     <a href="index.php">Home</a>
@@ -28,10 +31,10 @@
             </div>
             <div class="mob-nav d-lg-none">
                 <div class="mob-lf">
-                    <img class="logo" src="img/company-logo.svg" alt="Sree Sarabheswar Engineering">
+                    <img class="logo" src="public/img/company-logo.svg" alt="Sree Sarabheswar Engineering">
                 </div>
                 <div class="mob-rf">
-                    <span class="bg"><img src="img/lumos.svg" alt="Lumos"></span>
+                    <span class="bg"><img src="public/img/lumos.svg" alt="Lumos"></span>
                     <button class="menu" aria-label="Main Menu">
                         <svg width="50" height="100" viewBox="0 0 100 100">
                             <path class="line line1"

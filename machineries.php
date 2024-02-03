@@ -2,7 +2,7 @@
 <?php include("header.php") ?>
 <main class="machine-bg">
     <div class="mc-tag">
-        <img src="public/img/marquee-star-2.svg" alt="">
+        <img class="ast" src="public/img/marquee-star-2.svg" alt="">
         <span>Our Work Force</span>
     </div>
     <h2 class="tag-line">Marvelous Machines</h2>

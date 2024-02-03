@@ -14,7 +14,7 @@
                 </div>
                 <div class="scroll-btn">
                     <img src="public/img/scroll-down.png" alt="scroll to bottom">
-                    <img src="public/img/scroll-down-arrow.svg" alt="scroll to bottom">
+                    <img class="scroll-im" src="public/img/scroll-down-arrow.svg" alt="scroll to bottom">
                 </div>
                 <div class="tags">
                     <span>18 Years Experience</span>
@@ -107,7 +107,7 @@
             <div class="row">
                 <div class="col-sm-4 d-flex align-items-center">
                     <div class="badge-cont">
-                        <img src="public/img/exp-badge.png" alt="Sri Sarabheswar Engineering">
+                        <img class="ex-badge" src="public/img/exp-badge.png" alt="Sri Sarabheswar Engineering">
                         <span>
                             Years of Experience
                         </span>
@@ -117,12 +117,12 @@
                 <div class="col-sm-4">
                     <div class="sec-2-right">
                         <p>Partnering with Fortune 500 companies and mid-sized firms across enterprises, uniquely customized and scalable workforce solutions. Our aim to achieve the goal as we provide innovative ideas, designs and solutions to our clients.</p>
-                        <a href="javascript:void{}"><img src="public/img/scroll-down-arrow.svg" alt=""></a>
+                        <a href="javascript:void{}"><img class="scroll-im" src="public/img/scroll-down-arrow.svg" alt=""></a>
                     </div>
                 </div>
             </div>
             <div class="fl float-content">
-                <span><img src="public/img/marquee-star-2.svg" alt="Sree sarabheswar Engineering">We Give You The Best Design</span>
+                <span><img class="ast" src="public/img/marquee-star-2.svg" alt="Sree sarabheswar Engineering">We Give You The Best Design</span>
                 <p>
                 <h2>Delivering Value</h2>
                 </p>
@@ -136,7 +136,7 @@
         <div class="container">
             <div class="row">
                 <div class="fl col-sm-6">
-                    <span><img src="public/img/marquee-star-2.svg" alt="Sree sarabheswar Engineering">What we offer</span>
+                    <span><img class="ast" src="public/img/marquee-star-2.svg" alt="Sree sarabheswar Engineering">What we offer</span>
                     <p>
                     <h2>Find Out What</h2>
                     </p>
@@ -151,21 +151,21 @@
                 <div class="col-sm-6">
                     <div class="serv">
                         <div class="s-card">
-                            <img src="public/img/precision-1.png" alt="Fabrication">
+                            <img class="pres" src="public/img/precision-1.png" alt="Fabrication">
                             <div class="serv-cont">
                                 <h3>Precision Making</h3>
                                 <span>Our machines can produce high precision parts and components with complex shapes and designs.</span>
                             </div>
                         </div>
                         <div class="s-card">
-                            <img src="public/img/threading-1.png" alt="Fabrication">
+                            <img class="thred" src="public/img/threading-1.png" alt="Fabrication">
                             <div class="serv-cont">
                                 <h3>Threading</h3>
                                 <span>Based on requirements inernal and external threading services are provided</span>
                             </div>
                         </div>
                         <div class="s-card">
-                            <img src="public/img/milling-1.png" alt="Fabrication">
+                            <img class="fab" src="public/img/milling-1.png" alt="Fabrication">
                             <div class="serv-cont">
                                 <h3>Milling</h3>
                                 <span>Non Circular form products are machined through unique machine tools and dedicated machine</span>
@@ -213,10 +213,10 @@
     <section class="inx-cnt" style="position:relative">
         <div class="container mb-5">
             <div class="star lf">
-                <img src="public/img/star-primary.svg" alt="">
+                <img class="page-star" src="public/img/star-primary.svg" alt="">
             </div>
             <div class="star rf">
-                <img src="public/img/star-primary.svg" alt="">
+                <img class="page-star" src="public/img/star-primary.svg" alt="">
             </div>
             <div class="contact-ban">
                 <h2>Let's Work Together</h2>
